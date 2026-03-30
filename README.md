@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/someshnamata32/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/someshnamata32/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/someshnamata32/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -83,6 +84,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/someshnamata32/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/someshnamata32/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/someshnamata32/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
