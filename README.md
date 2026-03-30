@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/someshnamata32/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/someshnamata32/leetcode-solutions/tree/master/0020-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/someshnamata32/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/someshnamata32/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
