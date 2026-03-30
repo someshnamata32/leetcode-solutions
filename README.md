@@ -43,6 +43,7 @@
 | [0011-container-with-most-water](https://github.com/someshnamata32/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/someshnamata32/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/someshnamata32/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -97,6 +98,7 @@
 | [0013-roman-to-integer](https://github.com/someshnamata32/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/someshnamata32/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/someshnamata32/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Linked List
 |  |
 | ------- |
