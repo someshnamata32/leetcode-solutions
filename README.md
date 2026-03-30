@@ -14,6 +14,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/someshnamata32/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/someshnamata32/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/someshnamata32/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/someshnamata32/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -76,6 +77,7 @@
 | [0007-reverse-integer](https://github.com/someshnamata32/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/someshnamata32/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/someshnamata32/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/someshnamata32/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
