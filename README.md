@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/someshnamata32/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/someshnamata32/leetcode-solutions/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/someshnamata32/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/someshnamata32/leetcode-solutions/tree/master/1051-height-checker) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/someshnamata32/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/someshnamata32/leetcode-solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
