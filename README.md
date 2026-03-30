@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/someshnamata32/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/someshnamata32/leetcode-solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/someshnamata32/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/someshnamata32/leetcode-solutions/tree/master/0050-powx-n) |
 ## Stack
 |  |
 | ------- |
