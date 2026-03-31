@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/someshnamata32/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/someshnamata32/leetcode-solutions/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/someshnamata32/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/someshnamata32/leetcode-solutions/tree/master/1051-height-checker) |
@@ -40,6 +41,7 @@
 | [0073-set-matrix-zeroes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/someshnamata32/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/someshnamata32/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
