@@ -37,6 +37,7 @@
 | [1051-height-checker](https://github.com/someshnamata32/leetcode-solutions/tree/master/1051-height-checker) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/someshnamata32/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/someshnamata32/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2404-most-frequent-even-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [2404-most-frequent-even-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Matrix
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1051-height-checker](https://github.com/someshnamata32/leetcode-solutions/tree/master/1051-height-checker) |
+| [2404-most-frequent-even-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
