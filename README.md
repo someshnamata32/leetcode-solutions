@@ -163,6 +163,7 @@
 | [0020-valid-parentheses](https://github.com/someshnamata32/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/someshnamata32/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Linked List
 |  |
 | ------- |
@@ -210,4 +211,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/someshnamata32/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
