@@ -12,7 +12,7 @@ class Solution {
                 num =0;
             }
         }
-            if(num != 0 && num <= prev) return false;
+        if(num != 0 && num <= prev) return false;
         return true;
     }
 }
