@@ -193,6 +193,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/someshnamata32/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/someshnamata32/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
