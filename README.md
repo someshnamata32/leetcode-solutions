@@ -139,6 +139,7 @@
 | [0050-powx-n](https://github.com/someshnamata32/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/someshnamata32/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/someshnamata32/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -162,6 +163,7 @@
 | ------- |
 | [0078-subsets](https://github.com/someshnamata32/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/someshnamata32/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -209,6 +211,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/someshnamata32/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/someshnamata32/leetcode-solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/someshnamata32/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/someshnamata32/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
