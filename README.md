@@ -35,6 +35,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/someshnamata32/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -139,6 +140,7 @@
 | [0050-powx-n](https://github.com/someshnamata32/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/someshnamata32/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/someshnamata32/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 ## Binary Search
@@ -262,4 +264,12 @@
 | ------- |
 | [0078-subsets](https://github.com/someshnamata32/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
