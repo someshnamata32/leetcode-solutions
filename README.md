@@ -218,6 +218,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/someshnamata32/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/someshnamata32/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 ## Trie
 |  |
 | ------- |
@@ -272,4 +273,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/someshnamata32/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/someshnamata32/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
