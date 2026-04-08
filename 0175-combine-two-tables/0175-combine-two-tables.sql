@@ -1,8 +1,8 @@
 select 
-Person.firstname,
-Person.lastname,
-Address.city,
-Address.state
+p.firstname,
+p.lastname,
+a.city,
+a.state
 from
-Person left join Address
-on Person.personId = Address.personId;
+Person p left join Address a
+on p.personId = a.personId;
