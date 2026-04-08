@@ -289,4 +289,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/someshnamata32/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/someshnamata32/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/someshnamata32/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
