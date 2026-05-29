@@ -58,6 +58,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/someshnamata32/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2404-most-frequent-even-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [0204-count-primes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/someshnamata32/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
