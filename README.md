@@ -60,6 +60,7 @@
 | [2404-most-frequent-even-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/someshnamata32/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [0905-sort-array-by-parity](https://github.com/someshnamata32/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/someshnamata32/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/someshnamata32/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/someshnamata32/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
 |  |
 | ------- |
