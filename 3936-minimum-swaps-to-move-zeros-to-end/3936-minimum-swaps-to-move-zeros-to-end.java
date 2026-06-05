@@ -22,7 +22,7 @@ class Solution {
         int j = n - 1;
         int i = 0;
         while(i < j){
-            if(nums[i] == 0 && nums[j] != 0 && j > 0){
+            if(nums[i] == 0 && nums[j] != 0 ){
                 int temp = nums[i];
                 nums[i] = nums[j];
                 nums[j] = temp;
