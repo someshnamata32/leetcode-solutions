@@ -5,7 +5,7 @@ class Solution {
         arr1[0] = 0;
         arr2[nums.length - 1] = 0;
         for(int i=1; i<nums.length; i++){
-            arr1[i] += nums[i-1] + arr1[i-1];
+            arr1[i] = nums[i-1] + arr1[i-1];
         }
         for(int i = nums.length - 2; i >= 0; i--){
             arr2[i] = nums[i+1] + arr2[i+1];
