@@ -7,7 +7,7 @@ class Solution {
                 if(abs <= k){
                     return true;
                 }
-                map.remove(nums[i]);
+               // map.remove(nums[i]);
             }
             map.put(nums[i], i);
         }
