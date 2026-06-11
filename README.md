@@ -232,6 +232,7 @@
 | [0179-largest-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/someshnamata32/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/someshnamata32/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/someshnamata32/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/someshnamata32/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -309,6 +310,7 @@
 | ------- |
 | [0078-subsets](https://github.com/someshnamata32/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/someshnamata32/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Enumeration
 |  |
 | ------- |
@@ -341,6 +343,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/someshnamata32/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -349,6 +352,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/someshnamata32/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -365,4 +369,5 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/someshnamata32/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
