@@ -333,4 +333,20 @@
 | [0175-combine-two-tables](https://github.com/someshnamata32/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/someshnamata32/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0577-employee-bonus](https://github.com/someshnamata32/leetcode-solutions/tree/master/0577-employee-bonus) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
