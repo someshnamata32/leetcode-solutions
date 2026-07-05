@@ -174,6 +174,7 @@
 | [0050-powx-n](https://github.com/someshnamata32/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/someshnamata32/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/someshnamata32/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/someshnamata32/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -224,6 +225,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/someshnamata32/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/someshnamata32/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/someshnamata32/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/someshnamata32/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -389,4 +391,8 @@
 | [0226-invert-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/someshnamata32/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
