@@ -17,6 +17,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/someshnamata32/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/someshnamata32/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/someshnamata32/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/someshnamata32/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/someshnamata32/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -119,6 +120,7 @@
 | [0027-remove-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/someshnamata32/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/someshnamata32/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/someshnamata32/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/someshnamata32/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/someshnamata32/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/someshnamata32/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/someshnamata32/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/someshnamata32/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -285,6 +288,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/someshnamata32/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/someshnamata32/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/someshnamata32/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/someshnamata32/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Trie
@@ -412,4 +416,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/someshnamata32/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/someshnamata32/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
