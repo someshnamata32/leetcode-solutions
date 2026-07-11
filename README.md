@@ -23,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/someshnamata32/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/someshnamata32/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/someshnamata32/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/someshnamata32/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/someshnamata32/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/someshnamata32/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/someshnamata32/leetcode-solutions/tree/master/0066-plus-one) |
@@ -244,6 +245,7 @@
 | [0042-trapping-rain-water](https://github.com/someshnamata32/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/someshnamata32/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/someshnamata32/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/someshnamata32/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -317,6 +319,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/someshnamata32/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/someshnamata32/leetcode-solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/someshnamata32/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/someshnamata32/leetcode-solutions/tree/master/0455-assign-cookies) |
