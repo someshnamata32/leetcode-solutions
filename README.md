@@ -54,6 +54,7 @@
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/someshnamata32/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/someshnamata32/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/someshnamata32/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/someshnamata32/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -166,6 +167,7 @@
 | [0242-valid-anagram](https://github.com/someshnamata32/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/someshnamata32/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0406-queue-reconstruction-by-height](https://github.com/someshnamata32/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0451-sort-characters-by-frequency](https://github.com/someshnamata32/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/someshnamata32/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/someshnamata32/leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -440,4 +442,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/someshnamata32/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/someshnamata32/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/someshnamata32/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
