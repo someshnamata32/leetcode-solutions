@@ -269,6 +269,7 @@
 | [0070-climbing-stairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/someshnamata32/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/someshnamata32/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/someshnamata32/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 ## String
 |  |
@@ -285,6 +286,7 @@
 | [0058-length-of-last-word](https://github.com/someshnamata32/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/someshnamata32/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/someshnamata32/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/someshnamata32/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/someshnamata32/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -384,6 +386,7 @@
 | [0047-permutations-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/someshnamata32/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/someshnamata32/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/someshnamata32/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 ## Enumeration
 |  |
