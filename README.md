@@ -398,6 +398,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/someshnamata32/leetcode-solutions/tree/master/1291-sequential-digits) |
 ## Number Theory
 |  |
 | ------- |
