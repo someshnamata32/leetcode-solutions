@@ -123,6 +123,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/someshnamata32/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/someshnamata32/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/someshnamata32/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -167,6 +168,7 @@
 | [0287-find-the-duplicate-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/someshnamata32/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/someshnamata32/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/someshnamata32/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/someshnamata32/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -325,6 +327,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/someshnamata32/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/someshnamata32/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/someshnamata32/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0796-rotate-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/someshnamata32/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -391,6 +394,7 @@
 | [0413-arithmetic-slices](https://github.com/someshnamata32/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/someshnamata32/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
 |  |
