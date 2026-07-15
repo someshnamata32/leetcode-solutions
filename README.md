@@ -68,6 +68,7 @@
 | [0322-coin-change](https://github.com/someshnamata32/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/someshnamata32/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/someshnamata32/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
+| [0413-arithmetic-slices](https://github.com/someshnamata32/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/someshnamata32/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/someshnamata32/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0525-contiguous-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -295,6 +296,7 @@
 | [0198-house-robber](https://github.com/someshnamata32/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/someshnamata32/leetcode-solutions/tree/master/0322-coin-change) |
+| [0413-arithmetic-slices](https://github.com/someshnamata32/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 ## String
 |  |
 | ------- |
@@ -384,6 +386,7 @@
 | [0187-repeated-dna-sequences](https://github.com/someshnamata32/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/someshnamata32/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
