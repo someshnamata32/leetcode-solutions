@@ -280,6 +280,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/someshnamata32/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/someshnamata32/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -304,6 +305,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/someshnamata32/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/someshnamata32/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2574-left-and-right-sum-differences](https://github.com/someshnamata32/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Dynamic Programming
 |  |
@@ -354,6 +356,7 @@
 | [0763-partition-labels](https://github.com/someshnamata32/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/someshnamata32/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/someshnamata32/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/someshnamata32/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/someshnamata32/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Linked List
@@ -429,6 +432,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/someshnamata32/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/someshnamata32/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/someshnamata32/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
