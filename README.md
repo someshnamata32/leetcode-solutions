@@ -311,6 +311,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/someshnamata32/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/someshnamata32/leetcode-solutions/tree/master/0704-binary-search) |
@@ -651,4 +652,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/someshnamata32/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/someshnamata32/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
