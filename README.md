@@ -93,6 +93,7 @@
 | [0904-fruit-into-baskets](https://github.com/someshnamata32/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/someshnamata32/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0948-bag-of-tokens](https://github.com/someshnamata32/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/someshnamata32/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -208,6 +209,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/someshnamata32/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/someshnamata32/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/someshnamata32/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0948-bag-of-tokens](https://github.com/someshnamata32/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/someshnamata32/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/someshnamata32/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -250,6 +252,7 @@
 | [0645-set-mismatch](https://github.com/someshnamata32/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/someshnamata32/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/someshnamata32/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [0948-bag-of-tokens](https://github.com/someshnamata32/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/someshnamata32/leetcode-solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -457,6 +460,7 @@
 | [0455-assign-cookies](https://github.com/someshnamata32/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/someshnamata32/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/someshnamata32/leetcode-solutions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/someshnamata32/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 ## Sliding Window
 |  |
 | ------- |
