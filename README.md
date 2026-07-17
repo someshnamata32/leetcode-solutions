@@ -200,6 +200,7 @@
 | [0283-move-zeroes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/someshnamata32/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/someshnamata32/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/someshnamata32/leetcode-solutions/tree/master/0763-partition-labels) |
@@ -361,6 +362,7 @@
 | [0198-house-robber](https://github.com/someshnamata32/leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/someshnamata32/leetcode-solutions/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/someshnamata32/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/someshnamata32/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
@@ -390,6 +392,7 @@
 | [0344-reverse-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/someshnamata32/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/someshnamata32/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/someshnamata32/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/someshnamata32/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
