@@ -203,6 +203,7 @@
 | [0455-assign-cookies](https://github.com/someshnamata32/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/someshnamata32/leetcode-solutions/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/someshnamata32/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/someshnamata32/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/someshnamata32/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/someshnamata32/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/someshnamata32/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/someshnamata32/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/someshnamata32/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/someshnamata32/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -394,6 +396,7 @@
 | [0567-permutation-in-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/someshnamata32/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/someshnamata32/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/someshnamata32/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/someshnamata32/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/someshnamata32/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -427,6 +430,7 @@
 | [0042-trapping-rain-water](https://github.com/someshnamata32/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/someshnamata32/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/someshnamata32/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/someshnamata32/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
