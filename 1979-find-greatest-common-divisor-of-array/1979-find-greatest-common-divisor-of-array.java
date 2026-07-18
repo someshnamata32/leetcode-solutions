@@ -1,17 +1,16 @@
 class Solution {
     public int findGCD(int[] nums) {
-        int largest = nums[0];
-        int smallest = nums[0];
-        int gcd = 0;
-        for(int i=1; i<nums.length; i++){
-            if(nums[i]>largest) largest = nums[i];
-            else if(nums[i] < smallest) smallest = nums[i];
-        }
-        while(largest % smallest != 0){
-            int temp = largest % smallest;
-            largest = smallest;
-            smallest = temp;
-        }
-        return smallest;
+       int smallest = nums[0];
+       int largest = nums[0];
+       for(int num : nums){
+        smallest = Math.min(smallest,num);
+        largest = Math.max(largest,num);
+       }
+        return gcd(smallest,largest);
     }
+
+    private int gcd(int a, int b){
+        if(b == 0) return a;
+        return gcd(b,a%b);
+    }   
 }
