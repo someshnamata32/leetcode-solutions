@@ -91,6 +91,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/someshnamata32/leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/someshnamata32/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/someshnamata32/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/someshnamata32/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/someshnamata32/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/someshnamata32/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/someshnamata32/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -452,6 +453,7 @@
 | [0155-min-stack](https://github.com/someshnamata32/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/someshnamata32/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/someshnamata32/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/someshnamata32/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/someshnamata32/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Trie
 |  |
@@ -648,6 +650,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/someshnamata32/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/someshnamata32/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Binary Indexed Tree
 |  |
 | ------- |
