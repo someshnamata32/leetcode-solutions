@@ -99,6 +99,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/someshnamata32/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/someshnamata32/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/someshnamata32/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/someshnamata32/leetcode-solutions/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/someshnamata32/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/someshnamata32/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -319,6 +320,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/someshnamata32/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/someshnamata32/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/someshnamata32/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/someshnamata32/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/someshnamata32/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
