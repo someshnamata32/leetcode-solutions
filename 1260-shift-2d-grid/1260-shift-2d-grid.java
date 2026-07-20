@@ -17,15 +17,13 @@ class Solution {
             grid = grid2;
             ii++;
         }
-        // for(int i = 0; i < m; i++){
-        //     gr.add(new ArrayList<>());
-        // }
         for(int i = 0; i < m; i++){
-            List<Integer> row = new ArrayList<>();
+            gr.add(new ArrayList<>());
+        }
+        for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
-                row.add(grid[i][j]);
+                gr.get(i).add(grid[i][j]);
             }
-            gr.add(row);
         }
         return gr;
     }
