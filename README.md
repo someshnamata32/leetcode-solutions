@@ -130,6 +130,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/someshnamata32/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/someshnamata32/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -234,6 +235,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/someshnamata32/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/someshnamata32/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/someshnamata32/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/someshnamata32/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
@@ -281,6 +283,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/someshnamata32/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
@@ -356,6 +359,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/someshnamata32/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/someshnamata32/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -525,6 +529,7 @@
 | [0948-bag-of-tokens](https://github.com/someshnamata32/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/someshnamata32/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/someshnamata32/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
 |  |
