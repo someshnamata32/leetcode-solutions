@@ -130,6 +130,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/someshnamata32/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3838-weighted-word-mapping](https://github.com/someshnamata32/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/someshnamata32/leetcode-solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
@@ -242,6 +243,7 @@
 | [1260-shift-2d-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/someshnamata32/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/someshnamata32/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/someshnamata32/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -454,6 +456,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/someshnamata32/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/someshnamata32/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/someshnamata32/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3838-weighted-word-mapping](https://github.com/someshnamata32/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
