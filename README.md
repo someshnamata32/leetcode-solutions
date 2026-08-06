@@ -315,6 +315,7 @@
 | [0523-continuous-subarray-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/someshnamata32/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/someshnamata32/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
