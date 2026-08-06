@@ -123,6 +123,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/someshnamata32/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/someshnamata32/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/someshnamata32/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/someshnamata32/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -282,6 +283,7 @@
 | [1051-height-checker](https://github.com/someshnamata32/leetcode-solutions/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/someshnamata32/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/someshnamata32/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/someshnamata32/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -529,6 +531,7 @@
 | [0948-bag-of-tokens](https://github.com/someshnamata32/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/someshnamata32/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/someshnamata32/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/someshnamata32/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
