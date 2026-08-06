@@ -130,6 +130,7 @@
 | [2404-most-frequent-even-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2574-left-and-right-sum-differences](https://github.com/someshnamata32/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -199,6 +200,7 @@
 | [0994-rotting-oranges](https://github.com/someshnamata32/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -565,6 +567,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/someshnamata32/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/someshnamata32/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -700,6 +703,7 @@
 | [0695-max-area-of-island](https://github.com/someshnamata32/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/someshnamata32/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/someshnamata32/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -780,4 +784,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/someshnamata32/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
