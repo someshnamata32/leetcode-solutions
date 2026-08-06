@@ -327,6 +327,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/someshnamata32/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/someshnamata32/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/someshnamata32/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -465,6 +466,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/someshnamata32/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/someshnamata32/leetcode-solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/someshnamata32/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3838-weighted-word-mapping](https://github.com/someshnamata32/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
@@ -534,6 +536,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/someshnamata32/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/someshnamata32/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/someshnamata32/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Sliding Window
