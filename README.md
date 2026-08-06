@@ -117,6 +117,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/someshnamata32/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/someshnamata32/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/someshnamata32/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/someshnamata32/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/someshnamata32/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
@@ -380,6 +381,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/someshnamata32/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/someshnamata32/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/someshnamata32/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/someshnamata32/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2574-left-and-right-sum-differences](https://github.com/someshnamata32/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
