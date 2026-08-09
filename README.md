@@ -67,6 +67,7 @@
 | [0229-majority-element-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/someshnamata32/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/someshnamata32/leetcode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -393,6 +394,7 @@
 | [0137-single-number-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/someshnamata32/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/someshnamata32/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/someshnamata32/leetcode-solutions/tree/master/0342-power-of-four) |
