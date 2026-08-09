@@ -167,6 +167,7 @@
 | [0347-top-k-frequent-elements](https://github.com/someshnamata32/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/someshnamata32/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/someshnamata32/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/someshnamata32/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -280,6 +281,7 @@
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/someshnamata32/leetcode-solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/someshnamata32/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/someshnamata32/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/someshnamata32/leetcode-solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -392,6 +394,7 @@
 | [0268-missing-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/someshnamata32/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/someshnamata32/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/someshnamata32/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/someshnamata32/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 ## Prefix Sum
@@ -469,6 +472,7 @@
 | [0344-reverse-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/someshnamata32/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/someshnamata32/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/someshnamata32/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/someshnamata32/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
