@@ -826,6 +826,7 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/someshnamata32/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1615-maximal-network-rank](https://github.com/someshnamata32/leetcode-solutions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/someshnamata32/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
