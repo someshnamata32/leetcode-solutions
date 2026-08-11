@@ -196,6 +196,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/someshnamata32/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/someshnamata32/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2374-node-with-highest-edge-score](https://github.com/someshnamata32/leetcode-solutions/tree/master/2374-node-with-highest-edge-score) |
 | [2404-most-frequent-even-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/someshnamata32/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -832,6 +833,7 @@
 | [1615-maximal-network-rank](https://github.com/someshnamata32/leetcode-solutions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/someshnamata32/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/someshnamata32/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2374-node-with-highest-edge-score](https://github.com/someshnamata32/leetcode-solutions/tree/master/2374-node-with-highest-edge-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
