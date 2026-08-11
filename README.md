@@ -305,6 +305,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/someshnamata32/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/someshnamata32/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2285-maximum-total-importance-of-roads](https://github.com/someshnamata32/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/someshnamata32/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -567,6 +568,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/someshnamata32/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/someshnamata32/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/someshnamata32/leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2285-maximum-total-importance-of-roads](https://github.com/someshnamata32/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/someshnamata32/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -602,6 +604,7 @@
 | [0347-top-k-frequent-elements](https://github.com/someshnamata32/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/someshnamata32/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2285-maximum-total-importance-of-roads](https://github.com/someshnamata32/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
@@ -828,6 +831,7 @@
 | [0997-find-the-town-judge](https://github.com/someshnamata32/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1615-maximal-network-rank](https://github.com/someshnamata32/leetcode-solutions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/someshnamata32/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [2285-maximum-total-importance-of-roads](https://github.com/someshnamata32/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
