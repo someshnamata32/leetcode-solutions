@@ -725,6 +725,7 @@
 | [0617-merge-two-binary-trees](https://github.com/someshnamata32/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/someshnamata32/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/someshnamata32/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/someshnamata32/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -745,6 +746,7 @@
 | [0695-max-area-of-island](https://github.com/someshnamata32/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/someshnamata32/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/someshnamata32/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1971-find-if-path-exists-in-graph](https://github.com/someshnamata32/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
@@ -785,6 +787,7 @@
 | [0130-surrounded-regions](https://github.com/someshnamata32/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/someshnamata32/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/someshnamata32/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [1971-find-if-path-exists-in-graph](https://github.com/someshnamata32/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -832,6 +835,7 @@
 | [0997-find-the-town-judge](https://github.com/someshnamata32/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1615-maximal-network-rank](https://github.com/someshnamata32/leetcode-solutions/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/someshnamata32/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/someshnamata32/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/someshnamata32/leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2374-node-with-highest-edge-score](https://github.com/someshnamata32/leetcode-solutions/tree/master/2374-node-with-highest-edge-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
