@@ -102,6 +102,7 @@
 | [0733-flood-fill](https://github.com/someshnamata32/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/someshnamata32/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/someshnamata32/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0752-open-the-lock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0875-koko-eating-bananas](https://github.com/someshnamata32/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/someshnamata32/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/someshnamata32/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -185,6 +186,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/someshnamata32/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/someshnamata32/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/someshnamata32/leetcode-solutions/tree/master/0740-delete-and-earn) |
+| [0752-open-the-lock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/someshnamata32/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/someshnamata32/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -489,6 +491,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/someshnamata32/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/someshnamata32/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0784-letter-case-permutation](https://github.com/someshnamata32/leetcode-solutions/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -750,6 +753,7 @@
 | [0617-merge-two-binary-trees](https://github.com/someshnamata32/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/someshnamata32/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/someshnamata32/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0841-keys-and-rooms](https://github.com/someshnamata32/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/someshnamata32/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/someshnamata32/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -869,4 +873,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
