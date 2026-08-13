@@ -193,6 +193,7 @@
 | [0752-open-the-lock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/someshnamata32/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0815-bus-routes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0815-bus-routes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/someshnamata32/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -713,6 +714,7 @@
 | [0617-merge-two-binary-trees](https://github.com/someshnamata32/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -741,6 +743,7 @@
 | [0695-max-area-of-island](https://github.com/someshnamata32/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/someshnamata32/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/someshnamata32/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0934-shortest-bridge](https://github.com/someshnamata32/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/someshnamata32/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -767,6 +770,7 @@
 | [0752-open-the-lock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/someshnamata32/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0934-shortest-bridge](https://github.com/someshnamata32/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/someshnamata32/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/someshnamata32/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -799,6 +803,7 @@
 | [0617-merge-two-binary-trees](https://github.com/someshnamata32/leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Memoization
 |  |
 | ------- |
