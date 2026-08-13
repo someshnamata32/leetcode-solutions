@@ -109,6 +109,7 @@
 | [0904-fruit-into-baskets](https://github.com/someshnamata32/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/someshnamata32/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0934-shortest-bridge](https://github.com/someshnamata32/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0948-bag-of-tokens](https://github.com/someshnamata32/leetcode-solutions/tree/master/0948-bag-of-tokens) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/someshnamata32/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/someshnamata32/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -221,6 +222,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/someshnamata32/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/someshnamata32/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0934-shortest-bridge](https://github.com/someshnamata32/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/someshnamata32/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/someshnamata32/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -739,6 +741,7 @@
 | [0695-max-area-of-island](https://github.com/someshnamata32/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/someshnamata32/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/someshnamata32/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/someshnamata32/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/someshnamata32/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -764,6 +767,7 @@
 | [0752-open-the-lock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [0815-bus-routes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/someshnamata32/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/someshnamata32/leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/someshnamata32/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/someshnamata32/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/someshnamata32/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
