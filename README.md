@@ -160,6 +160,7 @@
 | [0049-group-anagrams](https://github.com/someshnamata32/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/someshnamata32/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/someshnamata32/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/someshnamata32/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/someshnamata32/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/someshnamata32/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -473,6 +474,7 @@
 | [0076-minimum-window-substring](https://github.com/someshnamata32/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/someshnamata32/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/someshnamata32/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/someshnamata32/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/someshnamata32/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/someshnamata32/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0179-largest-number) |
@@ -743,6 +745,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/someshnamata32/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/someshnamata32/leetcode-solutions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/someshnamata32/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/someshnamata32/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/someshnamata32/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/someshnamata32/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -876,5 +879,6 @@
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/someshnamata32/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/someshnamata32/leetcode-solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
