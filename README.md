@@ -118,6 +118,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/someshnamata32/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/someshnamata32/leetcode-solutions/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/someshnamata32/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1162-as-far-from-land-as-possible](https://github.com/someshnamata32/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1207-unique-number-of-occurrences](https://github.com/someshnamata32/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/someshnamata32/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -221,6 +222,7 @@
 | [0695-max-area-of-island](https://github.com/someshnamata32/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/someshnamata32/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/someshnamata32/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/someshnamata32/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/someshnamata32/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/someshnamata32/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -458,6 +460,7 @@
 | [0509-fibonacci-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/someshnamata32/leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [1137-n-th-tribonacci-number](https://github.com/someshnamata32/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1162-as-far-from-land-as-possible](https://github.com/someshnamata32/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/someshnamata32/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
 |  |
@@ -762,6 +765,7 @@
 | [0815-bus-routes](https://github.com/someshnamata32/leetcode-solutions/tree/master/0815-bus-routes) |
 | [0841-keys-and-rooms](https://github.com/someshnamata32/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/someshnamata32/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1162-as-far-from-land-as-possible](https://github.com/someshnamata32/leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/someshnamata32/leetcode-solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/someshnamata32/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/someshnamata32/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
