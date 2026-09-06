@@ -694,6 +694,7 @@
 | [0176-second-highest-salary](https://github.com/someshnamata32/leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0577-employee-bonus](https://github.com/someshnamata32/leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/someshnamata32/leetcode-solutions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/someshnamata32/leetcode-solutions/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/someshnamata32/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Tree
 |  |
